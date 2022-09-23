@@ -14,9 +14,9 @@ Golang(マイクロサービスランタイム)環境で MongoDB を適用する
 ```
 module MODULE-NAME
 
-go 1.17
+go 1.18
 
 require (
-	go.mongodb.org/mongo-driver v1.7.1
-	)
+    go.mongodb.org/mongo-driver v1.10.2
+    )
 ```
